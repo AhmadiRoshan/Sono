@@ -96,6 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\avatar.svg" />
+    <Resource Include="Images\radio.png" />
     <Resource Include="Images\user.png" />
     <Resource Include="Images\avatar.png" />
   </ItemGroup>
